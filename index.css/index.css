@@ -1,0 +1,86 @@
+.body{
+    margin: 0 auto;
+    padding: 0px;
+
+}
+.back{
+    background-image: url(../img/tuition\ planning\ and\ forecasting\ best\ practices\ in\ higher\ education\ 1.webp);
+    background-size: cover;
+    min-height: 600px;
+    
+}
+
+.head_teaxt{
+    min-height: 340px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   padding-top: 140px;
+
+}
+.head_teaxt h1{
+    float: left;
+    color: white;
+    width: 40%;
+    text-align: center;
+}
+.lps{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mybtn{
+    padding: 9px 30px;
+    font-size: 20px;
+    color: black;
+    font-weight: 500;
+}
+
+.back2{
+
+    background-color: transparent;
+    min-height: 600px;
+    margin-top: -150px;
+}
+.card{
+    width: 100%;
+    background: white;
+    padding: 20px;
+    box-shadow:
+      0 1px 1px hsl(0deg 0% 0% / 0.075),
+      0 2px 2px hsl(0deg 0% 0% / 0.075),
+      0 4px 4px hsl(0deg 0% 0% / 0.075),
+      0 8px 8px hsl(0deg 0% 0% / 0.075),
+      0 16px 16px hsl(0deg 0% 0% / 0.075)
+    ;
+    border-radius: 4px;
+    margin-top: 10px;
+
+}
+
+.title{
+    text-align: center;
+}
+
+.atachff{
+    color: gray;
+    text-align: center;
+}
+
+.icon{
+    text-align: center;
+    color: orange;
+}
+
+.cbt{
+    text-align: center;
+}
+
+.mycbtn{
+    color: black;
+    font-size: 18px;
+    font-weight: 500;
+
+}
+
+
